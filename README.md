@@ -4,7 +4,7 @@
 - Any unauthorized use, reproduction, or distribution of the data found here is strictly prohibited.
 - We do not condone or support any illegal or unethical activities.
 - All information provided should only be used within the bounds of ethical and lawful conduct.
-- Using any data provided, you assume full responsibility for any consequences that may arise from your actions.
+- Using data provided, you assume full responsibility for any consequences that may arise from your actions.
 - Use the data responsibly and comply with all applicable laws and regulations within your jurisdiction.
 - "0xSums" is not responsible for any misuse of the provided data, information, code, script, etc.
 
